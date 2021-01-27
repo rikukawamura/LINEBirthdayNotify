@@ -4,6 +4,8 @@ import datetime
 # coding: UTF-8
 date = str(datetime.date.today()).split('-')
 month, day = date[1], date[2]
+month='01'
+day ='01'
 
 bot = LINENotifyBot(access_token='アクセストークンをペースト')
 
