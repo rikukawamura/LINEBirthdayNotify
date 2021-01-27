@@ -1,0 +1,9 @@
+.python-version
+*.swp
+*.pyc
+__pycache__
+.ipynb_checkpoints/
+
+references.md
+test/access_token.txt
+test/test.png
